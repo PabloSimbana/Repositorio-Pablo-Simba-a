@@ -1,0 +1,12 @@
+[
+    {"id": "P001", "nombre": "Laptop Lenovo IdeaPad 3", "cantidad": 15, "precio": 750.00},
+    {"id": "P002", "nombre": "Mouse Logitech Inalámbrico", "cantidad": 40, "precio": 25.50},
+    {"id": "P003", "nombre": "Teclado Mecánico Redragon", "cantidad": 25, "precio": 60.00},
+    {"id": "P004", "nombre": "Monitor Samsung 24 pulgadas", "cantidad": 10, "precio": 180.00},
+    {"id": "P005", "nombre": "Impresora HP DeskJet", "cantidad": 8, "precio": 120.00},
+    {"id": "P006", "nombre": "Disco Duro Externo 1TB", "cantidad": 20, "precio": 85.00},
+    {"id": "P007", "nombre": "Memoria USB 64GB", "cantidad": 50, "precio": 12.00},
+    {"id": "P008", "nombre": "Router TP-Link AC1200", "cantidad": 18, "precio": 55.00},
+    {"id": "P009", "nombre": "Auriculares Bluetooth Sony", "cantidad": 30, "precio": 95.00},
+    {"id": "P010", "nombre": "Webcam Full HD Logitech", "cantidad": 22, "precio": 70.00}
+]
